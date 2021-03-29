@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "updateDBwithCorrelativeInfo", "updateDBwithCorrelativeInfo\updateDBwithCorrelativeInfo.csproj", "{D01F02AC-AF81-4331-8D2A-E1A489DE7B86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D01F02AC-AF81-4331-8D2A-E1A489DE7B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01F02AC-AF81-4331-8D2A-E1A489DE7B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01F02AC-AF81-4331-8D2A-E1A489DE7B86}.Debug|x64.ActiveCfg = Debug|x64
+		{D01F02AC-AF81-4331-8D2A-E1A489DE7B86}.Debug|x64.Build.0 = Debug|x64
+		{D01F02AC-AF81-4331-8D2A-E1A489DE7B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01F02AC-AF81-4331-8D2A-E1A489DE7B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D01F02AC-AF81-4331-8D2A-E1A489DE7B86}.Release|x64.ActiveCfg = Release|x64
+		{D01F02AC-AF81-4331-8D2A-E1A489DE7B86}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7C69E79-4A0C-4955-BA3B-7A329A6F6C46}
+	EndGlobalSection
+EndGlobal
